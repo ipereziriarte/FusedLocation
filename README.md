@@ -1,3 +1,4 @@
+## Fused Location Sample in Android Studio and Gradle
 This is an example for Android Studio and the new gradle build system.
 We use a fused location provider to learn how to correctly import the google play services library into the project.
 
