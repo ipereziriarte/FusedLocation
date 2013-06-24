@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fused Location</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="connectionStatusTitle">Connection Status</string>
+    <string name="commonBaseLocation">0.0,0.0</string>
+    <string name="btnLastLocTitle">Fetch Last Location</string>
+    <string name="commonBtnTitleStart">Start</string>
+    <string name="defaultRefreshValue">100</string>
+    <string name="locListenerTitle">Location Request Listener</string>
+    <string name="piTitle">Request Location PendingIntent</string>
+
+</resources>
